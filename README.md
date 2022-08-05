@@ -3,3 +3,5 @@ Using all principles of Object Oriented Programming, a "database" like program w
 
 ## University Database Project
 Project designed to use all the implentations of Object Oriented Programming Including Encapsulation, Inheritance, Abstraction, and Polymorphism. Interfaces were also used to develop a GUI to make selection, input, deletion, and display the information of the users that was read onto a CSV file.
+
+** This was used with JavaFX (Java 7) and updated JDK may result in import(s) to not be resolved.
